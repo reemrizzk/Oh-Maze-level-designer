@@ -1,0 +1,20 @@
+c:\users\hp\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze level maker.csprojAssemblyReference.cache
+c:\users\hp\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze_level_maker.Form1.resources
+c:\users\hp\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze_level_maker.Properties.Resources.resources
+c:\users\hp\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze level maker.csproj.GenerateResource.cache
+c:\users\hp\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze level maker.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Ohmaze level maker\Ohmaze level maker\bin\Debug\Ohmaze level designer.exe.config
+C:\Users\hp\source\repos\Ohmaze level maker\Ohmaze level maker\bin\Debug\Ohmaze level designer.exe
+C:\Users\hp\source\repos\Ohmaze level maker\Ohmaze level maker\bin\Debug\Ohmaze level designer.pdb
+C:\Users\hp\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze level designer.exe
+C:\Users\hp\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze level designer.pdb
+D:\ddd\source\repos\Ohmaze level maker\Ohmaze level maker\bin\Debug\Ohmaze level designer.exe.config
+D:\ddd\source\repos\Ohmaze level maker\Ohmaze level maker\bin\Debug\Ohmaze level designer.exe
+D:\ddd\source\repos\Ohmaze level maker\Ohmaze level maker\bin\Debug\Ohmaze level designer.pdb
+D:\ddd\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze level maker.csproj.AssemblyReference.cache
+D:\ddd\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze_level_maker.Form1.resources
+D:\ddd\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze_level_maker.Properties.Resources.resources
+D:\ddd\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze level maker.csproj.GenerateResource.cache
+D:\ddd\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze level maker.csproj.CoreCompileInputs.cache
+D:\ddd\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze level designer.exe
+D:\ddd\source\repos\Ohmaze level maker\Ohmaze level maker\obj\Debug\Ohmaze level designer.pdb
